@@ -1,0 +1,14 @@
+{
+  "name": "docshelf-backend",
+  "version": "1.0.0",
+  "description": "Backend API for DocShelf NoSQL project - GTU 4360704",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
